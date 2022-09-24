@@ -1,14 +1,15 @@
-#PACMAN PROJECT
+#EYE MOVEMENT
 ##PROJECT
-The PacMan Project allows the user to create multiple PacMen that move around the screen in random direction and at random velocity. When the PacMan hits the end of the screen, he then changes direction.
+The Eye Movement Project started with one eye on the screen that follows the mouse. A second eye needed to be created that follows the mouse as well and is in sync with the first eye. There are no images in this project and the eyes were created using css.
 
 ##HOW TO USE
-Click the "Add PacMan" button to have a PacMan appear on the page. Then click "Start Game" to have the PacMan move. You can continue to click "Add PacMan" so more PacMen appear. All the PacMen will be a random speed and go in a random direction.
+To use the Eye Movement Project, open up the page and move your mouse! Watch the "pupils" of the eye follow your mouse around the webpage.
 
-##ROADMAP
-Randomize the PacMen more so that each click of the "Add PacMan" button produces a different color PacMan.
+##Roadmap
+The roadmap for this project includes updating the eyes to a bit more expressive by adding eyelashes, eybrows, and a mouth.
 
-##MIT License
+##LICENSE
+MIT License
 
 Copyright (c) 2020 John Williams
 
@@ -28,3 +29,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
