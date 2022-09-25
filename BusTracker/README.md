@@ -1,12 +1,11 @@
-PACMAN PROJECT
-
-The PacMan Project allows the user to create multiple PacMen that move around the screen in random direction and at random velocity. When the PacMan hits the end of the screen, he then changes direction.
+BUS TRACKER PROJECT 
+The Bus Tracker Project shows the route of the MBTA between Harvard and MIT. There is a blue icon that appears every second on the web page to show you exactly where the bus stop is. 
 
 HOW TO USE
-Click the "Add PacMan" button to have a PacMan appear on the page. Then click "Start Game" to have the PacMan move. You can continue to click "Add PacMan" so more PacMen appear. All the PacMen will be a random speed and go in a random direction.
+To start the bus tracker, click the "Show stops between MIT and Harvard" button. Once you click the button, you will see the button appear and be able to follow along with the bus route. 
 
 ROADMAP
-Randomize the PacMen more so that each click of the "Add PacMan" button produces a different color PacMan.
+Update the map to be the bus route I would take from my apartment in Weehawken, NJ to Port Authority in New York City. I would like to be able to have the bus route than reverse and go from NYC to New Jersey. Stylewise, I also plan to update the icons to a different style. 
 
 MIT License
 
@@ -28,3 +27,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

@@ -1,14 +1,14 @@
-#EYE MOVEMENT
-##PROJECT
+EYE MOVEMENT PROJECT
+
 The Eye Movement Project started with one eye on the screen that follows the mouse. A second eye needed to be created that follows the mouse as well and is in sync with the first eye. There are no images in this project and the eyes were created using css.
 
-##HOW TO USE
+HOW TO USE
 To use the Eye Movement Project, open up the page and move your mouse! Watch the "pupils" of the eye follow your mouse around the webpage.
 
-##Roadmap
+Roadmap
 The roadmap for this project includes updating the eyes to a bit more expressive by adding eyelashes, eybrows, and a mouth.
 
-##LICENSE
+LICENSE
 MIT License
 
 Copyright (c) 2020 John Williams
