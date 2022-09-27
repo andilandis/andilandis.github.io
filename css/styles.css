@@ -65,3 +65,8 @@ a:link {
     color: rgb(62, 156, 90);
     text-decoration: none;
   }
+
+  h1.big {
+    text-align: center;
+    font-size: 3em;
+  }
