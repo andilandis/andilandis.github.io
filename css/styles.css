@@ -34,14 +34,30 @@
   padding: 20px;
   font-size: 20px;
   line-height: 20px;
-  color: darkviolet; 
+  color: rgb(200, 167, 212); 
   background-color: #282c35; 
   border-radius: 10px;
  
 }
 
 body {
-  background-color: lavender;
+  background-color: rgb(85, 147, 168);
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 300;
 }
+
+a:link {
+    color:rgb(31, 4, 41);
+  }
+
+  a:visited {
+    color:rgb(31, 4, 41);
+  }
+  
+  a:hover {
+    color: rgb(54, 184, 97);
+  }
+  
+  a:active {
+    color: rgb(62, 156, 90);
+  }
