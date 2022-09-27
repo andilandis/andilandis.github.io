@@ -22,7 +22,6 @@
   font-size: 20px;
   line-height: 20px;
   color: lavender;
-  background-color: purple; 
   border-radius: 10px;
  
 }
@@ -30,18 +29,19 @@
 .childsidebar {
   display: flex;
   flex-direction: column;
+  text-align: center;
   margin: 1%;
   padding: 20px;
   font-size: 20px;
   line-height: 20px;
-  color: lavender;
-  background-color: purple; 
+  color: darkviolet; 
+  background-color: #282c35; 
   border-radius: 10px;
  
 }
 
 body {
-  background-color: #282c35;
-  font-family: Verdana;
-  font-weight: 600;
+  background-color: lavender;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
 }
